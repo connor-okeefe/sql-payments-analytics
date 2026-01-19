@@ -1,2 +1,2 @@
 # sql-payments-analytics
-Built a fintech-style payments analytics database using SQL to analyze revenue performance and operational risk. Designed relational tables for customers, orders, payments, refunds, and disputes, and wrote queries to compute gross vs. net revenue, fees, refund and chargeback rates. 
+Built a fintech-style payments analytics database using SQL to analyze revenue performance and operational risk. Designed relational tables for customers, orders, payments, refunds, and disputes, and wrote queries to compute gross vs. net revenue, fees, refund and chargeback rates. Developed reporting queries for MRR/ARPU, customer cohorts, and risk flags using joins, CTEs, and window functions.
